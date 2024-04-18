@@ -18,6 +18,7 @@
 17.minimum number of jumps
 18.Partition array for maximum sum
 19.Partition with given difference
+20.Island parameter
 
 
 SLIDING WINDOW QUESTIONS
