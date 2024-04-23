@@ -19,6 +19,8 @@
 18.Partition array for maximum sum
 19.Partition with given difference
 20.Island parameter
+21.Find if path exist
+22.Open the lock
 
 
 SLIDING WINDOW QUESTIONS
