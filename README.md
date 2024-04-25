@@ -37,3 +37,5 @@ leetcode Questions
 9-->968
 
 10-->979
+11-->Number of LIS
+12--> LIS
